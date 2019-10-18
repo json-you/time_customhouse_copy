@@ -1,5 +1,5 @@
 
-## 时间海关-old vesion explanation
+## 时间海关-old version explanation
 
 2018.12.18【新增】图形化配置界面
 
