@@ -1,5 +1,5 @@
 
-## 时间海关-old version explanation
+## 时间海关-old version explanation -address：https://github.com/liuyouxing/time_customhouse
 
 2018.12.18【新增】图形化配置界面
 
